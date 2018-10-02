@@ -1,0 +1,6 @@
+2018/10/02-09:27:27.523 1892 Reusing MANIFEST /home/robson/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/02-09:27:27.523 1892 Recovering log #4
+2018/10/02-09:27:28.234 1892 Reusing old log /home/robson/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2018/10/02-09:27:40.434 3278 Level-0 table #8: started
+2018/10/02-09:27:40.588 3278 Level-0 table #8: 881206 bytes OK
+2018/10/02-09:27:40.655 3278 Delete type=0 #4

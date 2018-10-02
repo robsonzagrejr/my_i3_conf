@@ -1,0 +1,44 @@
+2018/10/02-09:27:43.720 1896 Reusing MANIFEST /home/robson/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/02-09:27:43.721 1896 Recovering log #1431
+2018/10/02-09:27:43.721 1896 Reusing old log /home/robson/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/001431.log 
+2018/10/02-09:27:44.188 3278 Compacting 2@0 + 4@1 files
+2018/10/02-09:27:44.231 3278 Generated table #1434@0: 49 keys, 2187 bytes
+2018/10/02-09:27:44.442 3278 Generated table #1435@0: 3 keys, 2199180 bytes
+2018/10/02-09:27:44.732 3278 Generated table #1436@0: 1 keys, 2198126 bytes
+2018/10/02-09:27:44.778 3278 Generated table #1437@0: 44 keys, 2215 bytes
+2018/10/02-09:27:44.778 3278 Compacted 2@0 + 4@1 files => 4401708 bytes
+2018/10/02-09:27:44.834 3278 compacted to: files[ 0 4 3 0 0 0 0 ]
+2018/10/02-09:27:44.834 3278 Delete type=2 #1432
+2018/10/02-09:27:44.835 3278 Delete type=2 #1424
+2018/10/02-09:27:44.835 3278 Delete type=2 #1425
+2018/10/02-09:27:44.835 3278 Delete type=2 #1430
+2018/10/02-09:27:44.835 3278 Delete type=2 #1427
+2018/10/02-09:27:44.836 3278 Delete type=2 #1426
+2018/10/02-09:27:55.633 3278 Level-0 table #1439: started
+2018/10/02-09:27:56.087 3278 Level-0 table #1439: 2185534 bytes OK
+2018/10/02-09:27:56.189 3278 Delete type=0 #1431
+2018/10/02-09:27:56.194 3278 Level-0 table #1441: started
+2018/10/02-09:27:56.433 3278 Level-0 table #1441: 2198096 bytes OK
+2018/10/02-09:27:56.560 3278 Delete type=0 #1438
+2018/10/02-09:28:01.434 3278 Level-0 table #1443: started
+2018/10/02-09:28:01.981 3278 Level-0 table #1443: 2199896 bytes OK
+2018/10/02-09:28:02.559 1889 Current memtable full; waiting...
+2018/10/02-09:28:02.583 3278 Delete type=0 #1440
+2018/10/02-09:28:02.587 3278 Level-0 table #1445: started
+2018/10/02-09:28:02.803 3278 Level-0 table #1445: 2198096 bytes OK
+2018/10/02-09:28:02.894 3278 Delete type=0 #1442
+2018/10/02-09:28:02.898 3278 Compacting 4@0 + 4@1 files
+2018/10/02-09:28:03.026 3278 Generated table #1446@0: 49 keys, 2187 bytes
+2018/10/02-09:28:03.371 3278 Generated table #1447@0: 3 keys, 2198094 bytes
+2018/10/02-09:28:03.560 3278 Generated table #1448@0: 1 keys, 2198292 bytes
+2018/10/02-09:28:03.605 3278 Generated table #1449@0: 44 keys, 2213 bytes
+2018/10/02-09:28:03.605 3278 Compacted 4@0 + 4@1 files => 4400786 bytes
+2018/10/02-09:28:03.661 3278 compacted to: files[ 0 4 3 0 0 0 0 ]
+2018/10/02-09:28:03.661 3278 Delete type=2 #1445
+2018/10/02-09:28:03.661 3278 Delete type=2 #1443
+2018/10/02-09:28:03.662 3278 Delete type=2 #1435
+2018/10/02-09:28:03.662 3278 Delete type=2 #1437
+2018/10/02-09:28:03.662 3278 Delete type=2 #1439
+2018/10/02-09:28:03.663 3278 Delete type=2 #1436
+2018/10/02-09:28:03.663 3278 Delete type=2 #1434
+2018/10/02-09:28:03.663 3278 Delete type=2 #1441

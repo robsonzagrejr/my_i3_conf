@@ -1,0 +1,6 @@
+2018/07/11-13:37:32.564 7376 Reusing MANIFEST /home/robson/.config/google-chrome/Default/IndexedDB/https_wordpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/07/11-13:37:32.564 7376 Recovering log #3
+2018/07/11-13:37:32.565 7376 Reusing old log /home/robson/.config/google-chrome/Default/IndexedDB/https_wordpress.com_0.indexeddb.leveldb/000003.log 
+2018/07/11-13:45:55.281 4116 Level-0 table #5: started
+2018/07/11-13:45:55.409 4116 Level-0 table #5: 1417656 bytes OK
+2018/07/11-13:45:55.466 4116 Delete type=0 #3

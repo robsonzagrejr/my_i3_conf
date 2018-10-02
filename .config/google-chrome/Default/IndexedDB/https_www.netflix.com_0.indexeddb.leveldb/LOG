@@ -1,0 +1,15 @@
+2018/10/01-21:14:55.079 948 Reusing MANIFEST /home/robson/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/01-21:14:55.079 948 Recovering log #25
+2018/10/01-21:14:55.246 948 Reusing old log /home/robson/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000025.log 
+2018/10/01-21:33:56.726 2653 Level-0 table #29: started
+2018/10/01-21:33:56.975 2653 Level-0 table #29: 1803608 bytes OK
+2018/10/01-21:33:57.021 2653 Delete type=0 #25
+2018/10/01-21:33:57.042 2653 Compacting 4@0 + 1@1 files
+2018/10/01-21:33:57.810 2653 Generated table #30@0: 16 keys, 15816 bytes
+2018/10/01-21:33:57.810 2653 Compacted 4@0 + 1@1 files => 15816 bytes
+2018/10/01-21:33:57.932 2653 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/10/01-21:33:57.932 2653 Delete type=2 #26
+2018/10/01-21:33:57.933 2653 Delete type=2 #20
+2018/10/01-21:33:57.933 2653 Delete type=2 #24
+2018/10/01-21:33:57.933 2653 Delete type=2 #29
+2018/10/01-21:33:57.933 2653 Delete type=2 #22

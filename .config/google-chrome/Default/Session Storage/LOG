@@ -1,0 +1,24 @@
+2018/10/02-12:57:14.845 18379 Reusing MANIFEST /home/robson/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/10/02-12:57:14.846 18379 Recovering log #622
+2018/10/02-12:57:14.971 18379 Reusing old log /home/robson/.config/google-chrome/Default/Session Storage/000622.log 
+2018/10/02-12:57:31.077 20825 Level-0 table #626: started
+2018/10/02-12:57:31.134 20825 Level-0 table #626: 17912 bytes OK
+2018/10/02-12:57:31.179 20825 Delete type=0 #622
+2018/10/02-12:57:31.191 20825 Compacting 4@0 + 1@1 files
+2018/10/02-12:57:31.346 20825 Generated table #627@0: 5317 keys, 203402 bytes
+2018/10/02-12:57:31.346 20825 Compacted 4@0 + 1@1 files => 203402 bytes
+2018/10/02-12:57:31.412 20825 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/10/02-12:57:31.413 20825 Delete type=2 #623
+2018/10/02-12:57:31.430 20825 Delete type=2 #618
+2018/10/02-12:57:31.430 20825 Delete type=2 #620
+2018/10/02-12:57:31.443 20825 Delete type=2 #615
+2018/10/02-12:57:31.447 20825 Delete type=2 #626
+2018/10/02-13:03:22.952 20825 Level-0 table #629: started
+2018/10/02-13:03:23.001 20825 Level-0 table #629: 19780 bytes OK
+2018/10/02-13:03:23.046 20825 Delete type=0 #625
+2018/10/02-13:11:23.143 20825 Level-0 table #631: started
+2018/10/02-13:11:23.198 20825 Level-0 table #631: 23515 bytes OK
+2018/10/02-13:11:23.242 20825 Delete type=0 #628
+2018/10/02-14:01:08.135 20825 Level-0 table #633: started
+2018/10/02-14:01:08.228 20825 Level-0 table #633: 14603 bytes OK
+2018/10/02-14:01:08.273 20825 Delete type=0 #630

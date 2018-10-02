@@ -1,0 +1,6 @@
+!monochromatic colors for rofi
+rofi.color-enabled: true
+rofi.separator-style: none               
+rofi.color-window: #1f201f, #1f201f, #ffffff
+ rofi.color-normal: #333333, #aaaaaa, #1f201f,#8838FF, #000000
+rofi.opacity: 85 
