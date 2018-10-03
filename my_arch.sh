@@ -18,7 +18,7 @@ sudo pacman -S i3-wm i3lock i3blocks
 sudo pacman -S termite rofi compton vim
 
 #Install File Manager
-sudo pacman -S ranger w3m ffmpeg ffmpegthumbnailer
+sudo pacman -S ranger w3m ffmpeg ffmpegthumbnailer udisk
 
 #Install Componnents
 sudo pacman -S firefox scrot feh imagemagick python mplayer pulseaudio arandr
